@@ -1,7 +1,7 @@
 # Small Powers of Tau
 
 
-This implementation aims to target small non-Groth16 powers of tau ceremonies. The code was audited by SECBIT Labs on September 20th, 2022. Checkout the report here: [https://github.com/ethereum/kzg-ceremony/blob/main/KZG10-Ceremony-audit-report.pdf]()
+This implementation aims to target small non-Groth16 powers of tau ceremonies. The code was audited by SECBIT Labs on September 20th, 2022. Checkout the report here: [https://github.com/ethereum/kzg-ceremony/blob/main/KZG10-Ceremony-audit-report.pdf](https://github.com/ethereum/kzg-ceremony/blob/main/KZG10-Ceremony-audit-report.pdf)
 
 ## Performance
 
